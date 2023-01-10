@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OIAVPN</string>
+    <string name="vpn_on">VPN ON</string>
+    <string name="vpn_off">VPN OFF</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connection_close_confirm">Are you sure you want to disconnect?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="interstitial_ad_id">ca-app-pub-8158764725500247/2168711880</string>
+    <string name="admob_app_id">ca-app-pub-8158764725500247~5344350199</string>
+</resources>
